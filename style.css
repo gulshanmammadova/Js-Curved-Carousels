@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 305px;
+    height: 391px;
+}
+.slick-slide{
+    width: 305px !important;
+
+}
+.all{
+    overflow: hidden;
+    margin:100px auto;
+    width: 96%;
+    position: relative;
+
+}
+.oval1
+{ z-index: 111111;
+    top: -78px;
+    position: absolute;
+    height: 161px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 50%;
+}
+.oval2
+{ z-index: 111111;
+    bottom: -82px;
+    position: absolute;
+    height: 161px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 50%;
+}
